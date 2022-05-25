@@ -39,6 +39,10 @@ yarn install
 yarn run
 ```
 
+## Video Demo Link
+
+https://youtu.be/rTw7iGla0Kc
+
 ## Acknowledgments
  
 References and sample code taken from following sites:
